@@ -89,7 +89,7 @@ Tree==0.2.4
 tzlocal==1.5.1
 unicodecsv==0.14.1
 uritemplate==3.0.0
-urllib3==1.24.1
+urllib3==1.24.2
 uWSGI==2.0.18
 vine==1.1.4
 virtualenv==16.5.0
