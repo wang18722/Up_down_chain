@@ -47,7 +47,7 @@ itypes==1.1.0
 jdcal==1.4
 jedi==0.13.1
 jieba==0.39
-Jinja2==2.10
+Jinja2==2.11.3
 kombu==4.2.1
 live-server==0.9.9
 MarkupSafe==1.1.1
