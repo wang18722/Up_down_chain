@@ -74,7 +74,7 @@ pyparsing==2.3.0
 python-alipay-sdk==1.9.1
 python-dateutil==2.8.0
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.4
 qiniu==7.2.4
 QQLoginTool==0.3.0
 redis==2.10.6
